@@ -1,7 +1,7 @@
 #  Mount Kilimanjaro Adventure Game
 ![game-image](https://github.com/poojanagrecha/Mount-Kilimanjaro-PyGame/blob/main/images/MT%20Kilimanjaro%20PyGAME.png)
 
-#About:
+# About:
 
 <b> Play the game: </b>
 - https://trinket.io/python/3d8d7ce66b
